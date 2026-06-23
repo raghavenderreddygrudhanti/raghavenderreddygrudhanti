@@ -1,160 +1,221 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghavender%20Reddy%20Grudhanti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Rust%20Developer%20%7C%20Agentic%20Systems%20Builder&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Raghavender%20Reddy%20Grudhanti&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MuleSoft%20Architect%20%7C%20Salesforce%20Expert%20%7C%20AI%2FML%20Engineer%20%7C%20Enterprise%20Integration%20Specialist&descAlignY=58&descSize=15" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+the+future+with+AI+Agents+%F0%9F%A4%96;Rust+%7C+Python+%7C+Agentic+Frameworks+%F0%9F%A6%80;Open+Source+%7C+Systems+%7C+Automation+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00A1E0&center=true&vCenter=true&multiline=true&width=800&height=80&lines=MuleSoft+Certified+Architect+%F0%9F%8F%97%EF%B8%8F+%7C+Salesforce+Platform+Expert+%E2%98%81%EF%B8%8F;Enterprise+Integrations+%7C+AI+Agents+%7C+Agentic+Pipelines+%F0%9F%A4%96;Building+Intelligent%2C+Connected+Enterprise+Systems+%F0%9F%94%97)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/raghavenderreddygrudhanti?label=Followers&style=flat-square&color=58A6FF&labelColor=1a1b27)](https://github.com/raghavenderreddygrudhanti)
-[![GitHub stars](https://img.shields.io/github/stars/raghavenderreddygrudhanti?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=f1c40f&labelColor=1a1b27&label=Total%20Stars)](https://github.com/raghavenderreddygrudhanti)
-[![Profile views](https://komarev.com/ghpvc/?username=raghavenderreddygrudhanti&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/raghavenderreddygrudhanti)
+[![GitHub followers](https://img.shields.io/github/followers/raghavenderreddygrudhanti?label=Followers&style=flat-square&color=00A1E0&labelColor=0a0a0a)](https://github.com/raghavenderreddygrudhanti)
+[![GitHub stars](https://img.shields.io/github/stars/raghavenderreddygrudhanti?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=F59E0B&labelColor=0a0a0a&label=Stars)](https://github.com/raghavenderreddygrudhanti)
+[![Profile views](https://komarev.com/ghpvc/?username=raghavenderreddygrudhanti&style=flat-square&color=00A1E0&label=Profile+Views)](https://github.com/raghavenderreddygrudhanti)
 
 </div>
 
 ---
 
-## ⚡ What I Build
+## 🏛️ Who I Am
 
-I engineer **production-grade AI systems** — from blazing-fast CLI tools in Rust to sophisticated multi-agent pipelines. I don't just experiment with AI; I ship it.
+I am a **Senior Technology Architect** with extraordinary depth across **MuleSoft**, **Salesforce**, **AI/ML**, and **Enterprise Integration** — with a track record of designing and delivering large-scale, mission-critical systems across industries.
 
-```
-🦀 Systems → Rust-powered CLI tools (Sweep, TurboVec)
-🤖 AI Agents → Multi-agent orchestration with Agno & CrewAI
-🧠 AI Infra → Vector search, embeddings, RAG pipelines
-🔁 Automation → Autonomous workflows that replace human toil
-```
+With expertise spanning integration architecture, agentic AI, cloud platforms, and full-stack enterprise development, I bridge the gap between **business transformation** and **technical execution** at an elite level.
 
----
-
-## 🚀 Flagship Projects
-
-### 🧹 [Sweep](https://github.com/raghavenderreddygrudhanti/sweep) — macOS System Optimizer in Rust
-> A blazing-fast terminal tool to clean caches, uninstall apps and reclaim your disk — written entirely in Rust for zero-overhead performance.
+> *"I don't just connect systems — I architect the nervous system of enterprises."*
 >
-> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-> ![macOS](https://img.shields.io/badge/macOS-CLI-silver?style=flat-square&logo=apple&logoColor=white)
-> ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+> ---
 >
-> - ⚡ Built with Rust for **native speed** and minimal memory footprint
-> - - 🧹 One-command system cleanup: caches, app junk, temp files
->   - - 🔧 Modular architecture — add custom cleanup targets via config
->     - - 📦 Homebrew tap available: `brew install raghavenderreddygrudhanti/tap/sweep`
->      
->       - ---
+> ## 🏗️ Core Expertise
 >
-> ### 🧠 [AgenticFlow](https://github.com/raghavenderreddygrudhanti/AgenticFlow) — Orchestrated Agentic Pipelines
-> > Production-ready multi-agent orchestration framework for complex, multi-step AI task automation.
+> ### ☁️ MuleSoft — Anypoint Platform Architect
+>
+> | Capability | Detail |
+> |---|---|
+> | **Platform** | MuleSoft Anypoint Platform (Design, Develop, Deploy, Manage) |
+> | **Patterns** | API-led Connectivity, Event-Driven Architecture, CQRS |
+> | **APIs** | REST, SOAP, GraphQL — design, versioning, governance |
+> | **Runtime** | CloudHub, Runtime Fabric, On-Premise Mule Runtime |
+> | **Integration** | Salesforce, SAP, Oracle, Workday, ServiceNow, AWS, Azure |
+> | **Security** | OAuth 2.0, JWT, mTLS, API Policies, Anypoint MQ |
+> | **DevOps** | CI/CD with Maven, GitHub Actions, MuleSoft Anypoint CLI |
+>
+> ### ☁️ Salesforce Platform Expert
+>
+> | Capability | Detail |
+> |---|---|
+> | **Clouds** | Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud |
+> | **Development** | Apex, LWC, Visualforce, Aura Components |
+> | **Integration** | Salesforce Connect, Platform Events, Change Data Capture |
+> | **Data** | SOQL, SOSL, Data Loader, Bulk API, Streaming API |
+> | **Automation** | Flow Builder, Process Builder, Approval Processes |
+> | **DevOps** | SFDX, Salesforce CLI, Scratch Orgs, CI/CD Pipelines |
+>
+> ### 🔗 Enterprise Integration Architecture
+>
+> | Pattern | Implementation |
+> |---|---|
+> | **API-Led** | System, Process, Experience layer architecture |
+> | **Event-Driven** | Kafka, Anypoint MQ, Pub/Sub, CDC patterns |
+> | **Middleware** | MuleSoft ESB, Message transformation, Routing |
+> | **B2B/EDI** | AS2, EDIFACT, X12 trading partner integration |
+> | **iPaaS** | MuleSoft, Dell Boomi, Azure Integration Services |
+> | **Protocols** | REST, SOAP, GraphQL, gRPC, WebSocket, AMQP, JMS |
+>
+> ### 🤖 AI / ML Engineering
+>
+> | Area | Expertise |
+> |---|---|
+> | **Agentic AI** | Agno framework, CrewAI, multi-agent orchestration |
+> | **RAG Systems** | TurboVec, vector search, embedding pipelines |
+> | **LLM Integration** | GPT-4, Claude, tool-calling, structured outputs |
+> | **AI + MuleSoft** | Intelligent integration, AI-augmented APIs |
+> | **Automation** | Autonomous agents replacing manual workflows |
+> | **Observability** | AI-powered monitoring, anomaly detection |
+>
+> ---
+>
+> ## 🌟 Flagship Projects
+>
+> ### 🔗 Enterprise Integration Architecture — Salesforce ↔ MuleSoft ↔ SAP
+>
+> > Designed and delivered end-to-end API-led integration connecting **Salesforce**, **SAP**, and legacy ERP systems using MuleSoft Anypoint Platform with zero-downtime deployment.
 > >
-> > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> > ![Agno](https://img.shields.io/badge/Agno-Framework-8B5CF6?style=flat-square)
-> > ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+> > ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=flat-square&logo=mulesoft&logoColor=white)
+> > ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+> > ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+> > ![REST](https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square)
 > >
-> > - 🤖 Agents that **plan, reason, and act** autonomously
-> > - - 🔗 Tool-calling with web search, code exec, and file I/O
-> >   - - 🔄 Recursive agent loops with human-in-the-loop checkpoints
-> >     - - 🧩 Built on **Agno** — the lightweight, composable agent framework
+> > - 🏗️ Architected **3-tier API-led connectivity** (System → Process → Experience APIs)
+> > - - ⚡ Reduced integration build time by **60%** using reusable MuleSoft assets
+> >   - - 🔒 Implemented **OAuth 2.0 + API Gateway policies** across all endpoints
+> >     - - 📊 Real-time data sync with **Change Data Capture** and **Platform Events**
 > >      
 > >       - ---
 > >
-> > ### 🤖 [AgenticAI](https://github.com/raghavenderreddygrudhanti/AgenticAI) — Autonomous AI Agent Framework
-> > > Experimental research ground for next-gen agentic behavior — self-improving, goal-directed AI agents.
+> > ### 🤖 [AgenticFlow](https://github.com/raghavenderreddygrudhanti/AgenticFlow) — AI-Powered Integration Automation
+> >
+> > > Multi-agent orchestration system that automates complex enterprise integration tasks — from API design to testing and deployment.
 > > >
 > > > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> > > ![Agno](https://img.shields.io/badge/Agno-Powered-8B5CF6?style=flat-square)
-> > > ![LLM](https://img.shields.io/badge/LLM-Integrated-FF6B6B?style=flat-square)
+> > > ![Agno](https://img.shields.io/badge/Agno-8B5CF6?style=flat-square)
+> > > ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=flat-square&logo=mulesoft&logoColor=white)
+> > > ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 > > >
-> > > - 🧠 Goal decomposition with **chain-of-thought reasoning**
-> > > - - 🛠️ Dynamic tool selection based on task context
-> > >   - - 📊 Agent memory: short-term, long-term, and episodic recall
-> > >     - - 🔬 Experiments with **reflection**, **critique**, and **self-correction**
+> > > - 🤖 Agents that **auto-generate RAML specs, DataWeave mappings** and integration flows
+> > > - - 🔗 Connects to Anypoint Platform APIs to automate deployment pipelines
+> > >   - - 🧠 Built on **Agno** — lightweight composable agent framework
+> > >     - - 🔄 Self-healing integrations with AI-powered error detection & retry logic
 > > >      
 > > >       - ---
 > > >
-> > > ### 🎬 [CrewAI YouTube](https://github.com/raghavenderreddygrudhanti/crew_ai_youtube) — AI Content Pipeline
-> > > > End-to-end multi-agent system that transforms YouTube videos into polished blog posts — fully automated.
+> > > ### 🧹 [Sweep](https://github.com/raghavenderreddygrudhanti/sweep) — Rust-Powered macOS Optimizer
+> > >
+> > > > High-performance terminal tool built in Rust for macOS system cleanup — showcasing systems programming expertise.
 > > > >
-> > > > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> > > > ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF6B6B?style=flat-square)
-> > > > ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+> > > > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+> > > > ![macOS](https://img.shields.io/badge/macOS-CLI-silver?style=flat-square&logo=apple&logoColor=white)
+> > > > ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 > > > >
-> > > > - 📥 Fetches transcript → extracts key insights → generates SEO blog
-> > > > - - 👥 Multi-agent crew: **Researcher → Writer → Editor**
-> > > >   - - 🔄 Fully automated pipeline — zero manual effort after trigger
+> > > > - ⚡ Native Rust performance — zero-overhead system operations
+> > > > - - 📦 Homebrew tap: `brew install raghavenderreddygrudhanti/tap/sweep`
+> > > >   - - 🧩 Modular, extensible architecture for custom cleanup workflows
 > > > >    
 > > > >     - ---
 > > > >
-> > > > ### 🔍 [CrewAI WebSearch](https://github.com/raghavenderreddygrudhanti/crewai-websitesearch) — Intelligent Web Agent
-> > > > > A CrewAI-powered research agent that autonomously browses, scrapes and synthesizes web information.
+> > > > ### 🎬 [CrewAI YouTube](https://github.com/raghavenderreddygrudhanti/crew_ai_youtube) — AI Content Automation
+> > > >
+> > > > > Multi-agent pipeline that transforms YouTube content into structured blog posts — fully autonomous.
 > > > > >
 > > > > > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> > > > > ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF6B6B?style=flat-square)
-> > > > > ![RAG](https://img.shields.io/badge/RAG-Enabled-00D4AA?style=flat-square)
+> > > > > ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
 > > > > >
-> > > > > - 🌐 Autonomous web browsing and information extraction
-> > > > > - - 🧠 RAG pipeline for deep contextual understanding
-> > > > >   - - ✍️ Synthesizes findings into structured, cited reports
-> > > > >    
-> > > > >     - ---
+> > > > > - 👥 **Researcher → Writer → Editor** agent crew
+> > > > > - - 🔄 Zero manual effort — fully automated content pipeline
+> > > > >  
+> > > > >   - ---
 > > > > >
 > > > > > ## 🛠️ Tech Arsenal
 > > > > >
 > > > > > <div align="center">
 
-**Core Languages**
+**Integration & Middleware**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft_Anypoint-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-**Agentic Frameworks**
+**API & Architecture**
+
+![REST](https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RAML](https://img.shields.io/badge/RAML-00A1E0?style=for-the-badge&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+**Agentic AI & ML**
 
 ![Agno](https://img.shields.io/badge/Agno-8B5CF6?style=for-the-badge&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-
-**AI & Vector**
-
 ![TurboVec](https://img.shields.io/badge/TurboVec-00D4AA?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF8C00?style=for-the-badge&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logoColor=white)
 
-**Dev Tools**
+**Cloud & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![DataWeave](https://img.shields.io/badge/DataWeave-00A1E0?style=for-the-badge&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 AI Contributions & Expertise
+## 🤖 AI Contributions & Deep Expertise
 
 ```python
-ai_expertise = {
-    "Agentic Systems": [
-        "Agno framework — lightweight composable agents",
-        "CrewAI — role-based multi-agent orchestration",
-        "Tool-use: web search, code exec, file I/O, APIs",
-        "Human-in-the-loop + fully autonomous pipelines",
+expertise_profile = {
+
+    "MuleSoft_Architecture": [
+        "API-led connectivity — System, Process, Experience layers",
+        "Anypoint Platform: Design Center, Exchange, Runtime Manager",
+        "DataWeave 2.0 — complex transformations & mappings",
+        "CloudHub, Runtime Fabric, Hybrid deployment models",
+        "Anypoint MQ, Kafka integration, Event-Driven Architecture",
+        "API governance, versioning, SLA policies, rate limiting",
     ],
-    "Vector & Search": [
+
+    "Salesforce_Platform": [
+        "Sales Cloud, Service Cloud, Experience Cloud architecture",
+        "Apex triggers, batch jobs, queueable & future methods",
+        "Lightning Web Components (LWC) — custom UI development",
+        "Platform Events, CDC, Streaming API — real-time integration",
+        "Salesforce DX, scratch orgs, unlocked packages, CI/CD",
+        "Salesforce Connect — External Objects, OData adapters",
+    ],
+
+    "Enterprise_Integrations": [
+        "B2B/EDI: AS2, EDIFACT, X12 — trading partner onboarding",
+        "ERP integrations: SAP, Oracle, Workday, ServiceNow",
+        "iPaaS: MuleSoft, Dell Boomi, Azure Integration Services",
+        "Message queuing: Anypoint MQ, IBM MQ, RabbitMQ, SQS",
+        "Hybrid integration: on-prem to cloud secure connectivity",
+        "API security: OAuth 2.0, JWT, mTLS, IP whitelisting",
+    ],
+
+    "Agentic_AI_Systems": [
+        "Agno — lightweight composable multi-agent framework",
+        "CrewAI — role-based autonomous agent orchestration",
         "TurboVec — high-speed vector similarity search",
-        "Embedding pipelines (text, code, multimodal)",
-        "RAG (Retrieval-Augmented Generation) systems",
-        "Semantic search over large corpora",
+        "RAG pipelines — retrieval-augmented generation systems",
+        "AI-augmented MuleSoft: intelligent error handling & routing",
+        "LLM tool-calling: structured outputs, function calling",
     ],
-    "LLM Engineering": [
-        "Prompt engineering & structured output parsing",
-        "Agent memory: short-term, long-term, episodic",
-        "Reflection, critique & self-correction loops",
-        "Chain-of-thought & ReAct reasoning patterns",
-    ],
-    "Systems AI": [
-        "Sweep — Rust CLI for macOS system optimization",
-        "High-performance tooling for AI infra",
-        "Zero-overhead data pipelines for ML workloads",
-    ],
+
 }
 ```
 
@@ -183,11 +244,11 @@ ai_expertise = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Raghavender's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raghavenderreddygrudhanti&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghavenderreddygrudhanti&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -199,7 +260,7 @@ ai_expertise = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-@raghavenderreddygrudhanti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavenderreddygrudhanti)
 
-> 💡 *Open to collaborating on AI agent systems, Rust tooling, and open-source infrastructure.*
+> 💡 *Open to high-impact opportunities in Enterprise Architecture, MuleSoft, Salesforce, and AI-driven Integration Systems.*
 >
 > </div>
 
@@ -207,8 +268,8 @@ ai_expertise = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=120&section=footer" width="100%" />
 
-*"The best AI system is one that works so well, you forget it's AI."*
+*"Extraordinary systems require extraordinary architects."*
 
 </div>
