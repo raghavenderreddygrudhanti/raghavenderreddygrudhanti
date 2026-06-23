@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,24&height=220&section=header&text=Raghavender%20Reddy%20Grudhanti&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%F0%9F%8F%97%EF%B8%8F%20MuleSoft%20Architect%20%E2%80%A2%20%F0%9F%A4%96%20AI%20Systems%20Pioneer%20%E2%80%A2%20%E2%98%81%EF%B8%8F%20Salesforce%20Expert%20%E2%80%A2%20%F0%9F%94%97%20Integration%20Architect&descAlignY=68&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,24&height=220&section=header&text=Raghavender%20Reddy%20Grudhanti&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%F0%9F%8F%97%EF%B8%8F%20MuleSoft%20Architect%20%E2%80%A2%20%F0%9F%A4%96%20AI%20Systems%20Engineer%20%E2%80%A2%20%E2%98%81%EF%B8%8F%20Salesforce%20Expert%20%E2%80%A2%20%F0%9F%94%97%20Integration%20Architect&descAlignY=68&descSize=14" width="100%"/>
 
 </div>
 
@@ -45,16 +45,16 @@
 > > >
 > > > ---
 > > >
-> > > ## 🏆 Extraordinary Contributions
+> > > ## 🏆 Signature Contributions
 > > >
 > > > <div align="center">
 
-| 🔬 Original Work | 🌐 Scale of Impact | 🎯 Uniqueness |
+| 🔬 Original Work | 🌐 Scale of Impact | 🎯 What Sets It Apart |
 |:---|:---|:---|
 | Built **TurboVec** — high-speed vector similarity engine | Enterprise-grade, production-ready | One of few Rust + AI engineers doing this |
-| Pioneered **Agno-based** agentic integration systems | Automates what 5-10 engineers previously did manually | Unique fusion: MuleSoft + Agno agents |
-| **MuleSoft Anypoint Architect** across 10+ enterprise projects | Connected Salesforce, SAP, Oracle, Workday, ServiceNow | Top 1% of MuleSoft professionals worldwide |
-| Built **Sweep** — systems-level Rust CLI for macOS optimization | Open source, Homebrew distributed | Published, starred, production-used |
+| Pioneered **Agno-based** agentic integration systems | Automates what 5–10 engineers previously did manually | Unique fusion: MuleSoft + Agno agents |
+| **MuleSoft Anypoint Architect** across 10+ enterprise projects | Connected Salesforce, SAP, Oracle, Workday, ServiceNow | Top-tier MuleSoft expertise globally |
+| Built **Sweep** — systems-level Rust CLI for macOS | Open source, Homebrew distributed | Published, starred, production-used |
 | Designed **self-healing integrations** powered by LLMs | Zero-downtime, AI-monitored pipelines | First-of-kind architecture pattern |
 
 </div>
@@ -67,14 +67,14 @@
 > *Original engineering contribution · Built for production AI workloads*
 >
 > ```
->   What it does:  Ultra-fast vector similarity search for embedding-heavy AI systems
+>   What it does:   Ultra-fast vector similarity search for embedding-heavy AI systems
 >   Why it matters: Most vector DBs sacrifice speed for scale. TurboVec doesn't.
->   Built with:    Rust (zero-overhead) · SIMD optimization · designed for RAG pipelines
->   EB1 Signal:    Original software contribution used in production AI systems
+>   Built with:     Rust (zero-overhead) · SIMD optimization · designed for RAG pipelines
+>   Impact:         Original software contribution powering production AI systems
 > ```
 >
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-> ![AI](https://img.shields.io/badge/Vector_Search-00D4AA?style=flat-square)
+> ![Vector Search](https://img.shields.io/badge/Vector_Search-00D4AA?style=flat-square)
 > ![RAG](https://img.shields.io/badge/RAG_Ready-FF8C00?style=flat-square)
 > ![Production](https://img.shields.io/badge/Production-Grade-brightgreen?style=flat-square)
 >
@@ -84,10 +84,10 @@
 > > *Pioneer work · Fusing MuleSoft architecture with agentic AI — a pattern no one else has built*
 > >
 > > ```
-> >   What it does:  AI agents that auto-design, test, and deploy MuleSoft integration flows
+> >   What it does:   AI agents that auto-design, test, and deploy MuleSoft integration flows
 > >   Why it matters: Reduces 6-week integration projects to hours — autonomous end-to-end
-> >   Built with:    Agno framework · Python · MuleSoft Anypoint APIs · LLM tool-calling
-> >   EB1 Signal:    Novel architecture pattern — intelligent enterprise integration
+> >   Built with:     Agno framework · Python · MuleSoft Anypoint APIs · LLM tool-calling
+> >   Impact:         Novel architecture — intelligent, self-managing enterprise integration
 > > ```
 > >
 > > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -98,13 +98,13 @@
 > > ---
 > >
 > > ### 🏗️ MuleSoft Anypoint — Enterprise Integration Architecture
-> > > *Top-tier architect work · 10+ large-scale enterprise deployments*
+> > > *Architect-level work · 10+ large-scale enterprise deployments*
 > > >
 > > > ```
-> > >   What it does:  Connects Salesforce ↔ SAP ↔ Oracle ↔ Workday in a unified API fabric
+> > >   What it does:   Connects Salesforce ↔ SAP ↔ Oracle ↔ Workday in a unified API fabric
 > > >   Why it matters: Enables real-time data flow across systems that were never designed to talk
-> > >   Built with:    MuleSoft Anypoint · DataWeave 2.0 · CloudHub · Runtime Fabric · Kafka
-> > >   EB1 Signal:    Mission-critical systems, enterprise contracts, measurable business ROI
+> > >   Built with:     MuleSoft Anypoint · DataWeave 2.0 · CloudHub · Runtime Fabric · Kafka
+> > >   Impact:         Mission-critical systems delivering measurable business ROI at scale
 > > > ```
 > > >
 > > > ![MuleSoft](https://img.shields.io/badge/MuleSoft_Anypoint-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
@@ -121,13 +121,13 @@
 > > >         - ---
 > > >
 > > > ### 🧹 [Sweep](https://github.com/raghavenderreddygrudhanti/sweep) — Rust Systems Tool
-> > > > *Published open-source contribution · Homebrew distributed*
+> > > > *Published open-source · Homebrew distributed*
 > > > >
 > > > > ```
 > > > >   What it does:  Blazing-fast macOS system optimizer from the terminal
 > > > >   Built with:    Rust — zero-overhead, native performance
 > > > >   Distributed:   brew install raghavenderreddygrudhanti/tap/sweep
-> > > >   EB1 Signal:    Published open-source tool with real-world adoption
+> > > >   Impact:        Published open-source tool with real-world adoption
 > > > > ```
 > > > >
 > > > > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -137,13 +137,13 @@
 > > > > ---
 > > > >
 > > > > ### ☁️ Salesforce Platform — [AgenticAI](https://github.com/raghavenderreddygrudhanti/AgenticAI) + Enterprise Builds
-> > > > > *Salesforce architect + AI augmentation — dual expertise*
+> > > > > *Deep Salesforce expertise · Enhanced with AI agent capabilities*
 > > > > >
 > > > > > ```
 > > > > >   What it does:  Salesforce implementations enhanced with AI agent capabilities
 > > > > >   Built with:    Apex · LWC · Platform Events · Agno agents · RAG on CRM data
 > > > > >   Scale:         Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud
-> > > > >   EB1 Signal:    Rare combination of Salesforce depth + AI augmentation
+> > > > >   Impact:        Rare blend of Salesforce depth + cutting-edge AI augmentation
 > > > > > ```
 > > > > >
 > > > > > ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -152,7 +152,7 @@
 > > > > >
 > > > > > ---
 > > > > >
-> > > > > ## 🛠️ Full-Stack Mastery
+> > > > > ## 🛠️ Full-Stack Architecture
 > > > > >
 > > > > > <div align="center">
 
@@ -175,18 +175,21 @@
 <div align="center">
 
 **Integration & Middleware**
+
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Agentic AI**
+
 ![Agno](https://img.shields.io/badge/Agno-8B5CF6?style=for-the-badge)
 ![TurboVec](https://img.shields.io/badge/TurboVec-00D4AA?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF8C00?style=for-the-badge)
 
 **Languages**
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -240,7 +243,7 @@
 
 > *"I don't just integrate systems — I make them intelligent."*
 > >
-> >> *Open to extraordinary opportunities: Enterprise Architecture · MuleSoft · AI Systems · Salesforce*
+> >> *Open to high-impact opportunities: Enterprise Architecture · MuleSoft · AI Systems · Salesforce*
 > >>
 > >> </div>
 
@@ -248,7 +251,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,24&height=120&section=footer&text=Extraordinary%20Ability%20%E2%80%A2%20Extraordinary%20Systems&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,24&height=120&section=footer&text=Architect.%20Engineer.%20Builder.&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 [![Followers](https://img.shields.io/github/followers/raghavenderreddygrudhanti?label=Followers&style=social)](https://github.com/raghavenderreddygrudhanti)
 [![Stars](https://img.shields.io/github/stars/raghavenderreddygrudhanti?affiliations=OWNER&style=social)](https://github.com/raghavenderreddygrudhanti)
