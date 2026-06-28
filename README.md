@@ -56,6 +56,7 @@
 | **MuleSoft Anypoint Architect** across 10+ enterprise projects | Connected Salesforce, SAP, Oracle, Workday, ServiceNow | Top-tier MuleSoft expertise globally |
 | Built **Sweep** — systems-level Rust CLI for macOS | Open source, Homebrew distributed | Published, starred, production-used |
 | Designed **self-healing integrations** powered by LLMs | Zero-downtime, AI-monitored pipelines | First-of-kind architecture pattern |
+| Built **FaceFlash** — face search engine: 100% recall at 96× less RAM than HNSW | 1M faces in 61 MB — edge/mobile/server deployments | First Rust + AVX-512 face search with exact recall |
 
 </div>
 
@@ -152,6 +153,23 @@
 > > > > >
 > > > > > ---
 > > > > >
+> > > > > ### ⚡ [FaceFlash](https://github.com/raghavenderreddygrudhanti/faceflash) — Face Search Engine
+> > > > > > *Original engineering contribution · 100% recall at 96× less memory than HNSW*
+> > > > > >
+> > > > > > ```
+> > > > > >   What it does:   Face search engine — register photos, identify people from images/video/camera
+> > > > > >   Why it matters: 1M faces in 61 MB RAM vs 2.9 GB for HNSW — same 100% recall, 48–96× less memory
+> > > > > >   Built with:     Rust + AVX-512 VPOPCNTDQ · Python bindings · PCA+ITQ binary quantization · ArcFace
+> > > > > >   Impact:         Runs on edge/mobile/IoT — no GPU, fully air-gapped, production-benchmarked
+> > > > > > ```
+> > > > > >
+> > > > > > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
+> > > > > > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+> > > > > > ![AVX-512](https://img.shields.io/badge/AVX--512-SIMD-00D4AA?style=flat-square)
+> > > > > > ![100% Recall](https://img.shields.io/badge/Recall@1-100%25-brightgreen?style=flat-square)
+> > > > > >
+> > > > > > ---
+> > > > > >
 > > > > > ## 🛠️ Full-Stack Architecture
 > > > > >
 > > > > > <div align="center">
